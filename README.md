@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PythonGeek7
+- 👀 I’m interested in Arduino, Python and html
+- 🌱 I’m currently learning Python and nodeMCU
