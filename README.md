@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @PythonGeek7
+- 👋 Hi, I’m Sriram
 - 👀 I’m interested in Arduino, Python and html
 - 🌱 I’m currently learning Python and nodeMCU
